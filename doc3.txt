@@ -1,0 +1,2 @@
+doc3 - 
+some text of doc 3
