@@ -1,2 +1,2 @@
 doc3 - 
-some text of doc 3 56
+some text of doc 3 modified on 10-2-2014
